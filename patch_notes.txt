@@ -40,6 +40,7 @@ Arc Rose is getting some minor quality of life updates that should make aggressi
 [ALL PLATFORMS]
 
 🎨 SKIN UPGRADES
+
 • You can now upgrade your weapon skins in 5 seconds instead of 5 hours (lol)
 • Added the ability to unlock multiple available skin levels in a single transaction
 • Variants will require a separate unlock
@@ -48,6 +49,7 @@ Arc Rose is getting some minor quality of life updates that should make aggressi
 [ALL PLATFORMS]
 
 📍 PING SYSTEM
+
 The in-game ping system was created with the simple goal of allowing players to communicate with one another without using their mic. Over the years, unintended use cases of the ping system have emerged that give players in-the-moment combat advantages that go beyond the intended use of the system.
 
 With that in mind, we're making two changes to the ping system:
