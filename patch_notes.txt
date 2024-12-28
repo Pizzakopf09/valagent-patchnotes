@@ -1,43 +1,62 @@
-pppp
-VALORANT Patch Notes 9.11
+🎮 VALORANT PATCH NOTES 9.11 🎮
 
-AGENT UPDATES
-ALL PLATFORMS
+━━━━━━━━━━ AGENT UPDATES ━━━━━━━━━━
+[ALL PLATFORMS]
 
-Neon
-We’re reducing the power of Neon’s High Gear and Overdrive. These changes are intended to require Neon to play more intentionally as Neon’s abilities are highly reactive and impactful and should require more strategic use than they currently do.
-High Gear
-We believe Neon’s slide is correctly positioned as an aggressive combat tool, but making a call around when to  cast should be more important than it is currently, and that she should pay more of a cost when she slides.
+⚡ NEON
+We're reducing the power of Neon's High Gear and Overdrive. These changes are intended to require Neon to play more intentionally as Neon's abilities are highly reactive and impactful and should require more strategic use than they currently do.
+
+► High Gear
+We believe Neon's slide is correctly positioned as an aggressive combat tool, but making a call around when to cast should be more important than it is currently, and that she should pay more of a cost when she slides.
+
 Additionally, we want to sharpen the slide as a close-quarters combat tool to reward Neon for sprinting up to her opponents rather than consistently beaming opponents at long ranges.
-Slides 2 >>> 1
-Accuracy during slide
-Full accuracy >>> Crouch-walking accuracy
-OVERDRIVE
+
+• Slides: 2 >>> 1
+• Accuracy during slide:
+  Full accuracy >>> Crouch-walking accuracy
+
+► Overdrive
 We want to increase counterplay for Overdrive—giving opponents a potential window to stall Neon out or disengage. The amount of average round impact with her ultimate also justifies an 8 point cost.
-Duration of ultimate: 20s >>> 10s
-Ultimate points 7 >>> 8
-Vyse
-Razorvine
-We want to increase Razorvine’s ability to hold space as well as clean up some unclear gameplay situations where Razorvines that land on high objects could affect opponents with poor visual feedback.
-Damage per tick of moving through Razorvine: 6 >>> 10
-Vertical drop spawn height: 450 >>> 300
-This means Razorvine will no longer affect players as far under it when spawning high up on objects/level geometry
-Now slows enemy dashes similar to Sage’s Slowing Orb and concusses.
-Arc Rose
+
+• Duration of ultimate: 20s >>> 10s
+• Ultimate points: 7 >>> 8
+
+🌿 VYSE
+► Razorvine
+We want to increase Razorvine's ability to hold space as well as clean up some unclear gameplay situations where Razorvines that land on high objects could affect opponents with poor visual feedback.
+
+• Damage per tick of moving through Razorvine: 6 >>> 10
+• Vertical drop spawn height: 450 >>> 300
+• This means Razorvine will no longer affect players as far under it when spawning high up on objects/level geometry
+• Now slows enemy dashes similar to Sage's Slowing Orb and concusses.
+
+► Arc Rose
 Arc Rose is getting some minor quality of life updates that should make aggressing off its initial placement easier.
-Equip speed after cast
-Normal >>> Fast
-CLIENT UPDATES
-ALL PLATFORMS
-You can now upgrade your weapon skins in 5 seconds instead of 5 hours (lol)
-Added the ability to unlock multiple available skin levels in a single transaction. 
-Variants will require a separate unlock.
-GAMEPLAY SYSTEMS UPDATES
-ALL PLATFORMS
-Ping System
+
+• Equip speed after cast:
+  Normal >>> Fast
+
+━━━━━━━━━━ CLIENT UPDATES ━━━━━━━━━━
+[ALL PLATFORMS]
+
+🎨 SKIN UPGRADES
+• You can now upgrade your weapon skins in 5 seconds instead of 5 hours (lol)
+• Added the ability to unlock multiple available skin levels in a single transaction
+• Variants will require a separate unlock
+
+━━━━━━━ GAMEPLAY SYSTEMS UPDATES ━━━━━━━
+[ALL PLATFORMS]
+
+📍 PING SYSTEM
 The in-game ping system was created with the simple goal of allowing players to communicate with one another without using their mic. Over the years, unintended use cases of the ping system have emerged that give players in-the-moment combat advantages that go beyond the intended use of the system.
-With that in mind, we’re making two changes to the ping system.
-Smokes will block your in-world pings from traveling through them and instead land on the smoke.
-Pings made on your map will no longer appear in the world and only display on the minimap.
-To help you differentiate these ping behaviors in game we’re introducing new ping visuals and new ping sound for pings made on the map.
-We’ll introduce a cheat function for allowing map pings to show in-world during custom games to aid labbing and lineups, but this will come in a future patch.
+
+With that in mind, we're making two changes to the ping system:
+
+• Smokes will block your in-world pings from traveling through them and instead land on the smoke
+• Pings made on your map will no longer appear in the world and only display on the minimap
+
+To help you differentiate these ping behaviors in game we're introducing:
+• New ping visuals
+• New ping sound for pings made on the map
+
+Note: We'll introduce a cheat function for allowing map pings to show in-world during custom games to aid labbing and lineups, but this will come in a future patch.
