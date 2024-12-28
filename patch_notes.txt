@@ -4,7 +4,7 @@
 🎮 VALORANT PATCH NOTES 9.11 🎮
 
 
-━━━ AGENT UPDATES ━━━
+━ AGENT UPDATES ━
 [ALL PLATFORMS]
 
 
@@ -46,7 +46,7 @@ Arc Rose is getting some minor quality of life updates that should make aggressi
 
 
 
-━━━ CLIENT UPDATES ━━━
+━ CLIENT UPDATES ━
 [ALL PLATFORMS]
 
 
