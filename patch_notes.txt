@@ -45,7 +45,8 @@ Arc Rose is getting some minor quality of life updates that should make aggressi
 • Added the ability to unlock multiple available skin levels in a single transaction
 • Variants will require a separate unlock
 
-━ GAMEPLAY SYSTEMS UPDATES ━
+━ GAMEPLAY SYSTEMS ━
+━ UPDATES ━
 [ALL PLATFORMS]
 
 📍 PING SYSTEM
